@@ -3,6 +3,7 @@
 set nocompatible
 
 execute pathogen#infect()
+call pathogen#helptags()
 
 set number
 set history=200
@@ -71,3 +72,4 @@ inoremap <C-space> <C-x><C-o>
 
 
 "set ofu=syntaxcomplete#Complete
+
