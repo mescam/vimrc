@@ -10,3 +10,33 @@
 [submodule "bundle/pythoncomplete"]
 	path = bundle/pythoncomplete
 	url = https://github.com/vim-scripts/pythoncomplete
+[submodule "bundle/jscomplete-vim"]
+	path = bundle/jscomplete-vim
+	url = git@github.com:teramako/jscomplete-vim.git
+[submodule "bundle/vim-latex"]
+	path = bundle/vim-latex
+	url = git://vim-latex.git.sourceforge.net/gitroot/vim-latex/vim-latex/
+[submodule "bundle/matchit"]
+	path = bundle/matchit
+	url = git@github.com:vim-scripts/matchit.zip.git
+[submodule "bundle/supertab"]
+	path = bundle/supertab
+	url = git@github.com:ervandew/supertab.git
+[submodule "bundle/indent-motion"]
+	path = bundle/indent-motion
+	url = git@github.com:vim-scripts/indent-motion.git
+[submodule "bundle/zencoding"]
+	path = bundle/zencoding
+	url = git@github.com:mattn/zencoding-vim.git
+[submodule "bundle/vim-snipmate"]
+	path = bundle/vim-snipmate
+	url = git://github.com/garbas/vim-snipmate.git
+[submodule "bundle/tlib"]
+	path = bundle/tlib
+	url = https://github.com/tomtom/tlib_vim.git
+[submodule "bundle/vim-addon-mw-utils"]
+	path = bundle/vim-addon-mw-utils
+	url = https://github.com/MarcWeber/vim-addon-mw-utils.git
+[submodule "bundle/snipmate-snippets"]
+	path = bundle/snipmate-snippets
+	url = https://github.com/honza/snipmate-snippets.git

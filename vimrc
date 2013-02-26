@@ -44,6 +44,8 @@ set linebreak
 let g:clang_complete_copen = 1
 let g:clang_complete_auto = 1
 let g:clang_use_library = 1
+"let g:clang_library_path = "/usr/lib/llvm"
+"let g:clang_user_options='|| exit 0'
 
 "NERDTree
 map <C-n> :NERDTreeToggle<CR> "Ctrl+n opens NERDTree
@@ -54,7 +56,7 @@ set t_Co=256
 set background=dark
 
 if has('gui_running')
-    colorscheme wombat256
+    colorscheme solarized
 else
     colorscheme wombat256
 endif
@@ -68,4 +70,4 @@ inoremap <C-space> <C-x><C-o>
 
 
 
-set ofu=syntaxcomplete#Complete
+"set ofu=syntaxcomplete#Complete
