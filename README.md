@@ -5,6 +5,7 @@ My vim config
 
 ###Installation:
 ```
+rm -rf .vim .vimrc #or just rename...
 git clone https://github.com/mescam/vimrc.git ~/.vim  
 cd ~/.vim  
 sh install.sh
