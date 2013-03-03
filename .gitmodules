@@ -1,33 +1,33 @@
 [submodule "bundle/clang_complete"]
 	path = bundle/clang_complete
-	url = git@github.com:Rip-Rip/clang_complete.git
+	url = git://github.com/Rip-Rip/clang_complete.git
 [submodule "bundle/nerdtree"]
 	path = bundle/nerdtree
-	url = git@github.com:scrooloose/nerdtree.git
+	url = git://github.com/scrooloose/nerdtree.git
 [submodule "bundle/vim-colors-solarized"]
 	path = bundle/vim-colors-solarized
-	url = git@github.com:altercation/vim-colors-solarized.git
+	url = git://github.com/altercation/vim-colors-solarized.git
 [submodule "bundle/pythoncomplete"]
 	path = bundle/pythoncomplete
 	url = https://github.com/vim-scripts/pythoncomplete
 [submodule "bundle/jscomplete-vim"]
 	path = bundle/jscomplete-vim
-	url = git@github.com:teramako/jscomplete-vim.git
+	url = git://github.com/teramako/jscomplete-vim.git
 [submodule "bundle/vim-latex"]
 	path = bundle/vim-latex
 	url = git://vim-latex.git.sourceforge.net/gitroot/vim-latex/vim-latex/
 [submodule "bundle/matchit"]
 	path = bundle/matchit
-	url = git@github.com:vim-scripts/matchit.zip.git
+	url = git://github.com/vim-scripts/matchit.zip.git
 [submodule "bundle/supertab"]
 	path = bundle/supertab
-	url = git@github.com:ervandew/supertab.git
+	url = git://github.com/ervandew/supertab.git
 [submodule "bundle/indent-motion"]
 	path = bundle/indent-motion
-	url = git@github.com:vim-scripts/indent-motion.git
+	url = git://github.com/vim-scripts/indent-motion.git
 [submodule "bundle/zencoding"]
 	path = bundle/zencoding
-	url = git@github.com:mattn/zencoding-vim.git
+	url = git://github.com/mattn/zencoding-vim.git
 [submodule "bundle/vim-snipmate"]
 	path = bundle/vim-snipmate
 	url = git://github.com/garbas/vim-snipmate.git
